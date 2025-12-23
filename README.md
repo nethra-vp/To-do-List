@@ -1,4 +1,4 @@
-# To-Do List App
+# To-Do List
 
 A simple To-Do List web application built using HTML, CSS, and JavaScript.
 
@@ -9,4 +9,4 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 (Deployed using GitHub Pages)
-https://nethra-vp.github.io/To-do-List/
+- https://nethra-vp.github.io/To-do-List/
